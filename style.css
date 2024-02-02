@@ -1,0 +1,9 @@
+button{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    display: flex ;
+    margin-left:50%;
+    margin-top: 50px;
+}
